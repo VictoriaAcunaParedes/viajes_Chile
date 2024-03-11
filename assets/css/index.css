@@ -3,6 +3,11 @@
     padding: 0;
     margin: 0;
 }
+body {
+    background-color: black;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+}
 /*CSS navbar section*/
 .navbar {
     position: fixed;
@@ -17,5 +22,13 @@
 }
 .nav-link {
     color: white;
+}
+
+/*CSS quienes-somos section*/
+#quienes-somos i {
+    width: 300px;
+    background-color: aqua;
+    padding: 1%;
+    font-size: 25px;
 }
 
