@@ -41,6 +41,12 @@ body {
 .card {
     padding: 0%;
     background-color: aqua;
+    max-width: 250px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+#destacados {
+    padding-bottom: 3%;
 }
 
 
