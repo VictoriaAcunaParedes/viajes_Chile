@@ -85,3 +85,17 @@ footer .icons {
     text-decoration: none;
     color: white;
 }
+
+/* Estilos específicos para dispositivos móviles */
+@media only screen and (max-width: 767px) {
+    .row.justify-content-center {
+        text-align: center;
+      }
+    
+      .card {
+        margin-top: 10px;
+      }
+      h2 {
+        margin-top: 10px;
+      }
+  }
