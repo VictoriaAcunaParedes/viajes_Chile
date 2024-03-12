@@ -45,8 +45,32 @@ body {
     margin-right: 10px;
     margin-left: 20px;
 }
-#destacados {
-    padding-bottom: 3%;
+
+/*CSS contacto section*/
+.form {
+   padding: 8%;
+}
+
+/*Css footer */
+footer {
+    background-color: aqua;
+    color: white;
+}
+.footer-container {
+    display: flex;
+    padding: 15px;
+}
+
+footer p {
+    font-size: 35px;
+    padding-right: 28%;
+    padding-left: 8%;
+
+}
+footer .icons {
+    font-size: 35px;
+    padding-left: 28%;
+
 }
 
 
