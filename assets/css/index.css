@@ -8,6 +8,9 @@ body {
     color: white;
     font-family: "Open Sans", sans-serif;
 }
+h2 {
+    font-weight: 400;
+}
 /*CSS navbar section*/
 .navbar {
     position: fixed;
@@ -27,7 +30,7 @@ body {
 /*CSS quienes-somos section*/
 #quienes-somos i {
     width: 300px;
-    background-color: aqua;
+    background-color: rgb(7, 164, 192);
     padding: 1%;
     font-size: 25px;
 }
@@ -40,7 +43,7 @@ body {
 }
 .card {
     padding: 0%;
-    background-color: aqua;
+    background-color: rgb(7, 164, 192);
     max-width: 250px;
     margin-right: 10px;
     margin-left: 20px;
@@ -53,7 +56,7 @@ body {
 
 /*Css footer */
 footer {
-    background-color: aqua;
+    background-color: rgb(7, 164, 192);
     color: white;
 }
 .footer-container {
