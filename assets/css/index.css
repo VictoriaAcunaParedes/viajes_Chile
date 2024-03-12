@@ -3,14 +3,17 @@
     padding: 0;
     margin: 0;
 }
+
 body {
     background-color: black;
     color: white;
     font-family: "Open Sans", sans-serif;
 }
+
 h2 {
     font-weight: 400;
 }
+
 /*CSS navbar section*/
 .navbar {
     position: fixed;
@@ -20,9 +23,11 @@ h2 {
     padding-right: 8%;
     z-index: 1000;
 }
+
 .navbar-brand {
     color: white;
 }
+
 .nav-link {
     color: white;
 }
@@ -39,8 +44,8 @@ h2 {
 .card-img-top {
     max-width: 100%;
     height: 150px;
-
 }
+
 .card {
     padding: 0%;
     background-color: rgb(7, 164, 192);
@@ -51,7 +56,7 @@ h2 {
 
 /*CSS contacto section*/
 .form {
-   padding: 8%;
+    padding: 8%;
 }
 
 /*Css footer */
@@ -59,6 +64,7 @@ footer {
     background-color: rgb(7, 164, 192);
     color: white;
 }
+
 .footer-container {
     display: flex;
     padding: 15px;
@@ -68,13 +74,14 @@ footer p {
     font-size: 35px;
     padding-right: 28%;
     padding-left: 8%;
-
 }
+
 footer .icons {
     font-size: 35px;
     padding-left: 28%;
-
 }
 
-
-
+.icon-link {
+    text-decoration: none;
+    color: white;
+}
